@@ -1,476 +1,962 @@
 [
   {
-    "question_number": 26,
+    "id": "pharm_q1",
+    "question": "Which of the following cellular structures is present in prokaryotes but lacking in eukaryotes?",
+    "options": [
+      "Mitochondria",
+      "Nuclear membrane",
+      "70S Ribosomes as the sole translation machinery",
+      "Peptidoglycan cell wall"
+    ],
+    "correct_answer": "Peptidoglycan cell wall",
+    "explanation": "Prokaryotic cell walls are distinctively composed of cross-linked polymer peptidoglycan (murein), whereas eukaryotic cells either lack walls or utilize cellulose or chitin."
+  },
+  {
+    "id": "pharm_q2",
+    "question": "The powerhouse of the cell where the major fraction of ATP production takes place via oxidative phosphorylation is:",
+    "options": [
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Lysosome",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Mitochondrion",
+    "explanation": "Mitochondria contain the electron transport chain complex and ATP synthase enzymes localized along their inner membrane invaginations (cristae)."
+  },
+  {
+    "id": "pharm_q3",
+    "question": "Which organelle is primarily responsible for the post-translational modification, sorting, and packaging of proteins?",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Lysosome",
+      "Golgi apparatus",
+      "Peroxisome"
+    ],
+    "correct_answer": "Golgi apparatus",
+    "explanation": "The Golgi apparatus accepts newly synthesized proteins from the endoplasmic reticulum, modifying them via glycosylation or phosphorylation before routing them to destinations."
+  },
+  {
+    "id": "pharm_q4",
+    "question": "The primary lipid bilayer constituent of the fluid mosaic biological biological membrane is:",
+    "options": [
+      "Triglycerides",
+      "Phospholipids",
+      "Cholesterol esters",
+      "Free fatty acids"
+    ],
+    "correct_answer": "Phospholipids",
+    "explanation": "Phospholipids possess an amphipathic structure consisting of hydrophilic polar heads and hydrophobic fatty acid tails, forming stable bilayers spontaneously in aqueous media."
+  },
+  {
+    "id": "pharm_q5",
+    "question": "Which type of active transport directly uses energy from ATP hydrolysis to move ions against their concentration gradient?",
+    "options": [
+      "Simple diffusion",
+      "Primary active transport",
+      "Secondary active transport",
+      "Facilitated diffusion"
+    ],
+    "correct_answer": "Primary active transport",
+    "explanation": "Primary active transporters, like the $Na^+/K^+$-ATPase pump, directly hydrolyze adenosine triphosphate to drive conformational changes required for trans-membrane ion translocation."
+  },
+  {
+    "id": "pharm_q6",
+    "question": "What is the primary function of lysosomes within the eukaryotic cell architecture?",
+    "options": [
+      "Lipid biosynthesis",
+      "Intracellular digestion and waste degradation",
+      "RNA transcription",
+      "Aerobic respiration"
+    ],
+    "correct_answer": "Intracellular digestion and waste degradation",
+    "explanation": "Lysosomes are specialized membrane-bound vesicles containing an assortment of acid hydrolases optimized to break down cellular debris, foreign pathogens, and macromolecules."
+  },
+  {
+    "id": "pharm_q7",
+    "question": "Which phase of the cell cycle is characterized by active replication of genomic DNA material?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correct_answer": "S phase",
+    "explanation": "The Synthetic (S) phase of the interphase cell cycle is specifically designated for complete and high-fidelity duplication of the nuclear DNA blueprint."
+  },
+  {
+    "id": "pharm_q8",
+    "question": "Programmed cell death that follows a highly regulated biochemical sequence without causing localized tissue inflammation is termed:",
+    "options": [
+      "Necrosis",
+      "Apoptosis",
+      "Autolysis",
+      "Infarction"
+    ],
+    "correct_answer": "Apoptosis",
+    "explanation": "Apoptosis involves precise activation of caspase cascades, cellular shrinkage, and nuclear fragmentation, resulting in phagocytic cleanup without cytoplasmic leakage."
+  },
+  {
+    "id": "pharm_q9",
+    "question": "Which specific protein fiber component of the cytoskeleton forms the core mitotic spindle apparatus during nuclear division?",
+    "options": [
+      "Microtubules",
+      "Actin filaments",
+      "Intermediate filaments",
+      "Keratin fibers"
+    ],
+    "correct_answer": "Microtubules",
+    "explanation": "Microtubules are dynamic hollow cylinders made of alpha and beta tubulin dimers that assemble to pull sister chromatids to opposite poles during mitosis."
+  },
+  {
+    "id": "pharm_q10",
+    "question": "The biological process of decoding mRNA nucleotide transcripts into functioning amino acid polypeptide chains is called:",
+    "options": [
+      "Replication",
+      "Transcription",
+      "Translation",
+      "Reverse transcription"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "Translation occurs on ribosomes, where transfer RNA (tRNA) molecules match their anticodons to mRNA codons to arrange amino acids in sequence."
+  },
+  {
+    "id": "pharm_q11",
+    "question": "Which anatomical tissue type is responsible for lining internal body cavities and covering external body surfaces?",
+    "options": [
+      "Connective tissue",
+      "Epithelial tissue",
+      "Muscular tissue",
+      "Nervous tissue"
+    ],
+    "correct_answer": "Epithelial tissue",
+    "explanation": "Epithelial tissues form close-packed continuous sheets acting as selective physical barriers involved in protection, absorption, filtration, and secretion."
+  },
+  {
+    "id": "pharm_q12",
+    "question": "The matrix structural protein most abundant throughout the human body's connective tissues is:",
+    "options": [
+      "Elastin",
+      "Keratin",
+      "Collagen",
+      "Actin"
+    ],
+    "correct_answer": "Collagen",
+    "explanation": "Collagen forms exceptionally strong triple-helical fibrillar arrays, providing essential structural tensile stability to bones, tendons, skin, and cartilage."
+  },
+  {
+    "id": "pharm_q13",
+    "question": "Which cranial nerve serves as the primary parasympathetic pathway controlling heart rate and gastrointestinal motility?",
+    "options": [
+      "Optic nerve (CN II)",
+      "Facial nerve (CN VII)",
+      "Vagus nerve (CN X)",
+      "Trigeminal nerve (CN V)"
+    ],
+    "correct_answer": "Vagus nerve (CN X)",
+    "explanation": "The Vagus nerve provides widespread parasympathetic visceromotor innervation stretching down to the thoracic and abdominal visceral organs."
+  },
+  {
+    "id": "pharm_q14",
+    "question": "The primary neurochemical transmitter operating across skeletal muscle neuromuscular junctions is:",
+    "options": [
+      "Dopamine",
+      "Norepinephrine",
+      "Acetylcholine",
+      "Serotonin"
+    ],
+    "correct_answer": "Acetylcholine",
+    "explanation": "Motor neurons release acetylcholine ($\text{ACh}$) into the synaptic cleft, where it binds to nicotinic receptors on the muscle endplate to trigger depolarization."
+  },
+  {
+    "id": "pharm_q15",
+    "question": "Which region of the human brain acts as the central master regulator for homeostatic loops, including body temperature and water balance?",
+    "options": [
+      "Cerebellum",
+      "Thalamus",
+      "Hypothalamus",
+      "Medulla oblongata"
+    ],
+    "correct_answer": "Hypothalamus",
+    "explanation": "The hypothalamus integrates autonomic nervous system signals and coordinates neuroendocrine outputs via the pituitary gland to preserve core homeostasis."
+  },
+  {
+    "id": "pharm_q16",
+    "question": "The highly vascular structural functional unit of the kidney responsible for filtering blood plasma is the:",
+    "options": [
+      "Nephron / Glomerulus",
+      "Loop of Henle",
+      "Collecting duct",
+      "Renal pelvis"
+    ],
+    "correct_answer": "Nephron / Glomerulus",
+    "explanation": "The nephron is the basic structural unit, and its glomerulus serves as a high-pressure capillary network filter that generates cell-free plasma ultrafiltrate."
+  },
+  {
+    "id": "pharm_q17",
+    "question": "Which hormone is secreted by the pancreatic beta cells to lower peripheral blood glucose concentrations?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Somatostatin",
+      "Epinephrine"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "Insulin promotes glucose uptake into skeletal muscles and adipose tissues while inhibiting hepatic gluconeogenesis, effectively driving down systemic blood sugar levels."
+  },
+  {
+    "id": "pharm_q18",
+    "question": "The standard mechanical pacemaker site responsible for initiating the normal cardiac sinus rhythm is the:",
+    "options": [
+      "Atrioventricular (AV) node",
+      "Sinoatrial (SA) node",
+      "Purkinje fibers",
+      "Bundle of His"
+    ],
+    "correct_answer": "Sinoatrial (SA) node",
+    "explanation": "The SA node possesses the fastest intrinsic rate of spontaneous phase 4 diastolic depolarization, making it the primary pacemaker of the heart."
+  },
+  {
+    "id": "pharm_q19",
+    "question": "What primary biological mechanism drives gas exchange ($O_2$ and $CO_2$) across alveolar-capillary membranes?",
+    "options": [
+      "Active transport pumps",
+      "Facilitated transport carrier proteins",
+      "Simple passive physical diffusion",
+      "Endocytosis"
+    ],
+    "correct_answer": "Simple passive physical diffusion",
+    "explanation": "Gases move passively down their individual partial pressure gradients across the thin respiratory membrane according to Fick's laws of diffusion."
+  },
+  {
+    "id": "pharm_q20",
+    "question": "Which physiological enzyme, secreted in the stomach, initiates the chemical digestion of dietary protein complexes?",
+    "options": [
+      "Trypsin",
+      "Pepsin",
+      "Amylase",
+      "Lipase"
+    ],
+    "correct_answer": "Pepsin",
+    "explanation": "Gastric chief cells secrete inactive pepsinogen, which is cleaved by acidic hydrochloric acid into active pepsin, an endopeptidase that breaks down proteins."
+  },
+  {
+    "id": "pharm_q21",
+    "question": "The standard physiological pH range of healthy human arterial blood is tightly maintained between:",
+    "options": [
+      "7.00 - 7.15",
+      "7.35 - 7.45",
+      "6.50 - 6.90",
+      "7.55 - 7.65"
+    ],
+    "correct_answer": "7.35 - 7.45",
+    "explanation": "Arterial blood pH must stay within the narrow margin of 7.35 to 7.45; variations beyond this disrupt enzymatic systems, leading to severe acidosis or alkalosis."
+  },
+  {
+    "id": "pharm_q22",
+    "question": "Which formed element of the blood plays the principal physical role in initiating the primary hemostatic plug at a vascular injury site?",
+    "options": [
+      "Eritrocytes",
+      "Platelets (Thrombocytes)",
+      "Neutrophils",
+      "Lymphocytes"
+    ],
+    "correct_answer": "Platelets (Thrombocytes)",
+    "explanation": "Upon vascular damage, platelets adhere to exposed subendothelial collagen, undergo activation and aggregation, and release signaling molecules to form a primary plug."
+  },
+  {
+    "id": "pharm_q23",
+    "question": "The protective double-layered serous sac enveloping the human lungs within the thoracic cavity is the:",
+    "options": [
+      "Pericardium",
+      "Peritoneum",
+      "Pleura",
+      "Meninges"
+    ],
+    "correct_answer": "Pleura",
+    "explanation": "The pleura consists of an outer parietal layer lining the chest wall and an inner visceral layer covering the lung parenchyma, separated by a thin lubricating fluid layer."
+  },
+  {
+    "id": "pharm_q24",
+    "question": "Which specific dynamic bone cell type is biochemically responsible for the resorption and breakdown of bone matrix?",
+    "options": [
+      "Osteoblasts",
+      "Osteocytes",
+      "Osteoclasts",
+      "Chondrocytes"
+    ],
+    "correct_answer": "Osteoclasts",
+    "explanation": "Osteoclasts are large, multinucleated myeloid-derived cells that secrete hydrogen ions and proteolytic enzymes to break down mineralized bone matrix during remodeling."
+  },
+  {
+    "id": "pharm_q25",
+    "question": "The essential structural pigment found in erythrocytes that binds and transports oxygen molecules is:",
+    "options": [
+      "Myoglobin",
+      "Hemoglobin",
+      "Hemocyanin",
+      "Bilirubin"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin is a quaternary tetrameric metalloprotein containing iron-binding heme groups that bind oxygen in the lungs and release it into systemic peripheral tissues."
+  },
+  {
+    "id": "pharm_q26",
     "question": "Which of the following is a volatile oil containing crude drug?",
-    "options": {
-      "A": "Clove",
-      "B": "Coriander",
-      "C": "Fennel",
-      "D": "All of the above"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Clove",
+      "Coriander",
+      "Fennel",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
     "explanation": "Clove (eugenol), Coriander (linalool), and Fennel (anethole and fenchone) are all aromatic crude drugs whose primary active components are volatile essential oils obtained via distillation."
   },
   {
-    "question_number": 27,
+    "id": "pharm_q27",
     "question": "Modified Borntrager's test is used for characterizing:",
-    "options": {
-      "A": "C-glycosides",
-      "B": "O-glycosides",
-      "C": "S-glycosides",
-      "D": "N-glycosides"
-    },
-    "correct_answer": "A",
+    "options": [
+      "C-glycosides",
+      "O-glycosides",
+      "S-glycosides",
+      "N-glycosides"
+    ],
+    "correct_answer": "C-glycosides",
     "explanation": "While the standard Borntrager's test detects free anthraquinones in O-glycosides, the modified version uses ferric chloride to oxidize and break the stronger carbon-carbon bond found in C-glycosides (like those in Aloes)."
   },
   {
-    "question_number": 28,
+    "id": "pharm_q28",
     "question": "Which one of the following is an organized crude drug?",
-    "options": {
-      "A": "Cinchona bark",
-      "B": "Aloe juice",
-      "C": "Agar",
-      "D": "Gelatin"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Cinchona bark",
+      "Aloe juice",
+      "Agar",
+      "Gelatin"
+    ],
+    "correct_answer": "Cinchona bark",
     "explanation": "Organized drugs consist of direct cellular plant structural tissue (like barks, leaves, and roots), whereas unorganized drugs are cellular-free products like juices, extracts, or exudates."
   },
   {
-    "question_number": 29,
+    "id": "pharm_q29",
     "question": "Stas-Otto method is used for the extraction of:",
-    "options": {
-      "A": "Glycosides",
-      "B": "Alkaloids",
-      "C": "Volatile oils",
-      "D": "Tannins"
-    },
-    "correct_answer": "B",
+    "options": [
+      "Glycosides",
+      "Alkaloids",
+      "Volatile oils",
+      "Tannins"
+    ],
+    "correct_answer": "Alkaloids",
     "explanation": "The Stas-Otto method is a classical chemical separation procedure utilizing selective solvent extractions at varying pH points to isolate organic alkaloidal bases from biological matter."
   },
   {
-    "question_number": 30,
+    "id": "pharm_q30",
     "question": "Which crude drug is used as a carminative?",
-    "options": {
-      "A": "Cardamom",
-      "B": "Ginger",
-      "C": "Cinnamon",
-      "D": "All of the above"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Cardamom",
+      "Ginger",
+      "Cinnamon",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
     "explanation": "Cardamom, Ginger, and Cinnamon contain volatile aromatic terpenes that stimulate gastric mucosa, relax the cardiac sphincter, and promote the expulsion of gas from the GI tract."
   },
   {
-    "question_number": 31,
+    "id": "pharm_q31",
     "question": "Which one of the following is an example of an alkaloidal amine?",
-    "options": {
-      "A": "Ephedrine",
-      "B": "Atropine",
-      "C": "Quinine",
-      "D": "Morphine"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Ephedrine",
+      "Atropine",
+      "Quinine",
+      "Morphine"
+    ],
+    "correct_answer": "Ephedrine",
     "explanation": "Ephedrine is a protoalkaloid or alkaloidal amine because its nitrogen atom resides outside the characteristic cyclic ring system, derived biosynthetically from phenylalanine."
   },
   {
-    "question_number": 32,
+    "id": "pharm_q32",
     "question": "Which processing step reduces the toxic properties of Nux-vomica seeds?",
-    "options": {
-      "A": "Boiling in water",
-      "B": "Detoxification (Sodhana)",
-      "C": "Dry heating",
-      "D": "Fermentation"
-    },
-    "correct_answer": "B",
+    "options": [
+      "Boiling in water",
+      "Detoxification (Sodhana)",
+      "Dry heating",
+      "Fermentation"
+    ],
+    "correct_answer": "Detoxification (Sodhana)",
     "explanation": "Sodhana is a traditional Ayurvedic purification process used for toxic drugs like Nux-vomica (containing strychnine) to minimize toxic alkaloids while retaining therapeutic values."
   },
   {
-    "question_number": 33,
+    "id": "pharm_q33",
     "question": "Goldbeater's skin test is used for the identification of:",
-    "options": {
-      "A": "Tannins",
-      "B": "Glycosides",
-      "C": "Alkaloids",
-      "D": "Resins"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Tannins",
+      "Glycosides",
+      "Alkaloids",
+      "Resins"
+    ],
+    "correct_answer": "Tannins",
     "explanation": "Goldbeater's skin test relies on the ability of true tannins to bind firmly to collagen proteins in animal membranes, which are subsequently stained with ferric sulfate to yield a blackish-blue color."
   },
   {
-    "question_number": 34,
+    "id": "pharm_q34",
     "question": "Which crude drug is classified as an oleo-gum-resin?",
-    "options": {
-      "A": "Asafoetida",
-      "B": "Myrrh",
-      "C": "Benzoin",
-      "D": "Both (A) and (B)"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Asafoetida",
+      "Myrrh",
+      "Benzoin",
+      "Both (A) and (B)"
+    ],
+    "correct_answer": "Both (A) and (B)",
     "explanation": "Asafoetida and Myrrh naturally consist of a homogenous mixture of volatile oils (oleo), water-soluble gums, and alcohol-soluble resinous complexes."
   },
   {
-    "question_number": 35,
+    "id": "pharm_q35",
     "question": "Which test is used for identifying saponin glycosides?",
-    "options": {
-      "A": "Froth test",
-      "B": "Hemolysis test",
-      "C": "Legal's test",
-      "D": "Both (A) and (B)"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Froth test",
+      "Hemolysis test",
+      "Legal's test",
+      "Both (A) and (B)"
+    ],
+    "correct_answer": "Both (A) and (B)",
     "explanation": "Saponins lower surface tension to generate persistent mechanical foam when shaken in water (Froth test) and interact with cholesterol in erythrocyte membranes to rupture them (Hemolysis test)."
   },
   {
-    "question_number": 36,
+    "id": "pharm_q36",
     "question": "The structural linkage type present in the sucrose molecule is:",
-    "options": {
-      "A": "Alpha-1,4-glycosidic linkage",
-      "B": "Alpha-1, beta-2-glycosidic linkage",
-      "C": "Beta-1,4-glycosidic linkage",
-      "D": "Alpha-1,6-glycosidic linkage"
-    },
-    "correct_answer": "B",
+    "options": [
+      "Alpha-1,4-glycosidic linkage",
+      "Alpha-1, beta-2-glycosidic linkage",
+      "Beta-1,4-glycosidic linkage",
+      "Alpha-1,6-glycosidic linkage"
+    ],
+    "correct_answer": "Alpha-1, beta-2-glycosidic linkage",
     "explanation": "Sucrose is a non-reducing disaccharide composed of alpha-D-glucose and beta-D-fructose linked together through their respective anomeric carbons ($C_1$ and $C_2$)."
   },
   {
-    "question_number": 37,
+    "id": "pharm_q37",
     "question": "Which diagnostic reagent turns pink-red in the presence of lignified tissues?",
-    "options": {
-      "A": "Phloroglucinol + HCl",
-      "B": "Iodine solution",
-      "C": "Ruthenium red",
-      "D": "Safranin"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Phloroglucinol + HCl",
+      "Iodine solution",
+      "Ruthenium red",
+      "Safranin"
+    ],
+    "correct_answer": "Phloroglucinol + HCl",
     "explanation": "Phloroglucinol dissolved in hydrochloric acid reacts selectively with the coniferaldehyde groups embedded within plant lignin to form a distinctive red-pink color."
   },
   {
-    "question_number": 38,
+    "id": "pharm_q38",
     "question": "Which morphological type of stomata is typically found in Digitalis leaves?",
-    "options": {
-      "A": "Anomocytic",
-      "B": "Anisocytic",
-      "C": "Paracytic",
-      "D": "Diacytic"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Anomocytic",
+      "Anisocytic",
+      "Paracytic",
+      "Diacytic"
+    ],
+    "correct_answer": "Anomocytic",
     "explanation": "Digitalis leaves possess anomocytic (irregular-celled) stomata, where the guard cells are surrounded by a variable number of cells indistinguishable from the other epidermal cells."
   },
   {
-    "question_number": 39,
+    "id": "pharm_q39",
     "question": "The primary therapeutic indication for Ergot alkaloids is:",
-    "options": {
-      "A": "Treatment of migraine",
-      "B": "Oxytocic action in labor",
-      "C": "Antihypertensive",
-      "D": "Both (A) and (B)"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Treatment of migraine",
+      "Oxytocic action in labor",
+      "Antihypertensive",
+      "Both (A) and (B)"
+    ],
+    "correct_answer": "Both (A) and (B)",
     "explanation": "Ergot alkaloids serve dual medical roles: Ergotamine manages acute migraines via vasoconstriction, while Ergometrine (Ergonovine) induces uterine contractions to treat postpartum hemorrhage."
   },
   {
-    "question_number": 40,
+    "id": "pharm_q40",
     "question": "Which crude drug is known as a source of proteolytic enzymes?",
-    "options": {
-      "A": "Papaya",
-      "B": "Pineapple",
-      "C": "Diastase",
-      "D": "Both (A) and (B)"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Papaya",
+      "Pineapple",
+      "Diastase",
+      "Both (A) and (B)"
+    ],
+    "correct_answer": "Both (A) and (B)",
     "explanation": "Papaya leaves/fruits yield the enzyme papain, and pineapple stems yield bromelain; both are well-known industrial and medical proteolytic (protein-cleaving) enzymes."
   },
   {
-    "question_number": 41,
+    "id": "pharm_q41",
     "question": "What is the principal active chemical constituent of Clove oil?",
-    "options": {
-      "A": "Eugenol",
-      "B": "Anethole",
-      "C": "Cineole",
-      "D": "Carvone"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Eugenol",
+      "Anethole",
+      "Cineole",
+      "Carvone"
+    ],
+    "correct_answer": "Eugenol",
     "explanation": "Clove oil obtained from Syzygium aromaticum yields between 70% to 90% eugenol, a volatile phenolic compound responsible for its antiseptic and dental anesthetic effects."
   },
   {
-    "question_number": 42,
+    "id": "pharm_q42",
     "question": "The active principal compound present in Belladonna belongs to which alkaloidal group?",
-    "options": {
-      "A": "Tropane alkaloids",
-      "B": "Quinoline alkaloids",
-      "C": "Isoquinoline alkaloids",
-      "D": "Indole alkaloids"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Tropane alkaloids",
+      "Quinoline alkaloids",
+      "Isoquinoline alkaloids",
+      "Indole alkaloids"
+    ],
+    "correct_answer": "Tropane alkaloids",
     "explanation": "Atropa belladonna synthesizes tropane alkaloids, primarily atropine and hyoscyamine, which block muscarinic acetylcholine receptors competitively."
   },
   {
-    "question_number": 43,
+    "id": "pharm_q43",
     "question": "Which parameter acts as a quantitative microscopy standard for crude leaf drugs?",
-    "options": {
-      "A": "Stomatal index",
-      "B": "Vein-islet number",
-      "C": "Palisade ratio",
-      "D": "All of the above"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Stomatal index",
+      "Vein-islet number",
+      "Palisade ratio",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
     "explanation": "Stomatal index, vein-islet count, and palisade ratio are constant quantitative histological values used to identify specific species and detect adulteration in leaf drugs."
   },
   {
-    "question_number": 44,
+    "id": "pharm_q44",
     "question": "Which statement accurately describes an adulterant?",
-    "options": {
-      "A": "Substitution with inferior material",
-      "B": "Addition of cheaper substances",
-      "C": "Spoliation due to microbial growth",
-      "D": "Both (A) and (B)"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Substitution with inferior material",
+      "Addition of cheaper substances",
+      "Spoliation due to microbial growth",
+      "Both (A) and (B)"
+    ],
+    "correct_answer": "Both (A) and (B)",
     "explanation": "Adulteration involves intentionally or accidentally substituting authentic crude material with inferior species or adding cheaper, inert substances that degrade product quality."
   },
   {
-    "question_number": 45,
+    "id": "pharm_q45",
     "question": "Vinca alkaloids like Vincristine and Vinblastine exert antineoplastic action by:",
-    "options": {
-      "A": "Inhibiting tubulin polymerization",
-      "B": "Alkylating cellular DNA strands",
-      "C": "Inhibiting topoisomerase II enzymes",
-      "D": "Antagonizing folic acid pathways"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Inhibiting tubulin polymerization",
+      "Alkylating cellular DNA strands",
+      "Inhibiting topoisomerase II enzymes",
+      "Antagonizing folic acid pathways"
+    ],
+    "correct_answer": "Inhibiting tubulin polymerization",
     "explanation": "Vinca alkaloids bind specifically to tubulin molecules, preventing their assembly into mitotic spindles, which arrests cancer cells in the metaphase stage."
   },
   {
-    "question_number": 46,
+    "id": "pharm_q46",
     "question": "Lycopodium spore method is selectively deployed for the quantitative evaluation of:",
-    "options": {
-      "A": "Crude drugs containing starch grains or pollen",
-      "B": "Liquid unorganized extracts",
-      "C": "Oleo-gum-resins",
-      "D": "Volatile oils"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Crude drugs containing starch grains or pollen",
+      "Liquid unorganized extracts",
+      "Oleo-gum-resins",
+      "Volatile oils"
+    ],
+    "correct_answer": "Crude drugs containing starch grains or pollen",
     "explanation": "Lycopodium spores have highly uniform dimensions ($94,000$ spores per milligram), serving as an internal standard to count starch grains, pollen, or fragments in powdered crude drugs."
   },
   {
-    "question_number": 47,
+    "id": "pharm_q47",
     "question": "The structural backbone of true steroidal saponins contains how many carbon atoms?",
-    "options": {
-      "A": "27",
-      "B": "30",
-      "C": "15",
-      "D": "20"
-    },
-    "correct_answer": "A",
+    "options": [
+      "27",
+      "30",
+      "15",
+      "20"
+    ],
+    "correct_answer": "27",
     "explanation": "Steroidal saponins possess a cyclopentanoperhydrophenanthrene skeleton built from 27 carbon atoms, distinguishing them from triterpenoid saponins which have 30 carbons."
   },
   {
-    "question_number": 48,
+    "id": "pharm_q48",
     "question": "Which color test identifies cardenolides by developing a purple ring with glacial acetic acid and ferric chloride?",
-    "options": {
-      "A": "Keller-Kiliani test",
-      "B": "Raymond's test",
-      "C": "Baljet's test",
-      "D": "Legal's test"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Keller-Kiliani test",
+      "Raymond's test",
+      "Baljet's test",
+      "Legal's test"
+    ],
+    "correct_answer": "Keller-Kiliani test",
     "explanation": "The Keller-Kiliani test identifies deoxysugars (like digitoxose in Digitalis cardenolides) by forming a reddish-brown color at the interface that turns bluish-green."
   },
   {
-    "question_number": 49,
+    "id": "pharm_q49",
     "question": "Which alkaloid serves as a direct antidote for atropine poisoning?",
-    "options": {
-      "A": "Physostigmine",
-      "B": "Pilocarpine",
-      "C": "Nicotine",
-      "D": "Reserpine"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Physostigmine",
+      "Pilocarpine",
+      "Nicotine",
+      "Reserpine"
+    ],
+    "correct_answer": "Physostigmine",
     "explanation": "Physostigmine is a reversible acetylcholinesterase inhibitor that crosses the blood-brain barrier, raising synaptic acetylcholine levels to reverse both central and peripheral muscarinic blockade caused by atropine."
   },
   {
-    "question_number": 50,
+    "id": "pharm_q50",
     "question": "The diagnostic chemical feature of pale catechu is the presence of:",
-    "options": {
-      "A": "Gambier-fluorescein",
-      "B": "Phlobatannins",
-      "C": "Alizarin",
-      "D": "Purpurin"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Gambier-fluorescein",
+      "Phlobatannins",
+      "Alizarin",
+      "Purpurin"
+    ],
+    "correct_answer": "Gambier-fluorescein",
     "explanation": "Pale catechu (Uncaria gambier) contains gambier-fluorescein, which gives a bright green fluorescent pattern when an petroleum ether extract is treated with sodium hydroxide."
   },
   {
-    "question_number": 51,
+    "id": "pharm_q51",
     "question": "The primary mechanism of action of systemic antacids like Sodium bicarbonate is:",
-    "options": {
-      "A": "Chemical neutralization of gastric HCl",
-      "B": "Reversible inhibition of $H^+/K^+$-ATPase",
-      "C": "Competitive antagonism of $H_2$ receptors",
-      "D": "Adsorption of hydrogen ions"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Chemical neutralization of gastric HCl",
+      "Reversible inhibition of $H^+/K^+$-ATPase",
+      "Competitive antagonism of $H_2$ receptors",
+      "Adsorption of hydrogen ions"
+    ],
+    "correct_answer": "Chemical neutralization of gastric HCl",
     "explanation": "Sodium bicarbonate is a soluble antacid that reacts rapidly and directly with hydrochloric acid in the stomach lumen to produce carbon dioxide, water, and sodium chloride."
   },
   {
-    "question_number": 52,
+    "id": "pharm_q52",
     "question": "Which inorganic compound is widely used as a protective topical astringent?",
-    "options": {
-      "A": "Zinc oxide",
-      "B": "Calamine",
-      "C": "Zinc sulfate",
-      "D": "All of the above"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Zinc oxide",
+      "Calamine",
+      "Zinc sulfate",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
     "explanation": "Zinc-based preparations act as topical astringents by precipitating surface proteins, forming a protective barrier that reduces inflammation and assists wound healing."
   },
   {
-    "question_number": 53,
+    "id": "pharm_q53",
     "question": "Hydrogen peroxide ($H_2O_2$) exerts antimicrobial activity through:",
-    "options": {
-      "A": "Liberation of destructive hydroxyl free radicals",
-      "B": "Alkylation of bacterial amino proteins",
-      "C": "Dehydration of protoplasm",
-      "D": "Halogenation of cellular structures"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Liberation of destructive hydroxyl free radicals",
+      "Alkylation of bacterial amino proteins",
+      "Dehydration of protoplasm",
+      "Halogenation of cellular structures"
+    ],
+    "correct_answer": "Liberation of destructive hydroxyl free radicals",
     "explanation": "Hydrogen peroxide is an oxidative disinfectant that produces reactive oxygen species and hydroxyl radicals, disrupting essential microbial membrane lipids and DNA."
   },
   {
-    "question_number": 54,
+    "id": "pharm_q54",
     "question": "Which compound is added to table salt to prevent nutritional deficiency diseases?",
-    "options": {
-      "A": "Potassium iodate",
-      "B": "Sodium iodide",
-      "C": "Potassium iodide",
-      "D": "All of the above"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Potassium iodate",
+      "Sodium iodide",
+      "Potassium iodide",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
     "explanation": "Salt iodization introduces trace amounts of iodine salts (like potassium iodate/iodide) to safeguard public health against iodine deficiency disorders, such as endemic goiter."
   },
   {
-    "question_number": 55,
+    "id": "pharm_q55",
     "question": "Alum (Potassium aluminum sulfate) is chemically classified as a:",
-    "options": {
-      "A": "Double salt",
-      "B": "Complex salt",
-      "C": "Acidic salt",
-      "D": "Basic salt"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Double salt",
+      "Complex salt",
+      "Acidic salt",
+      "Basic salt"
+    ],
+    "correct_answer": "Double salt",
     "explanation": "Alum ($\text{KAl(SO}_4)_2 \cdot 12\text{H}_2\text{O}$) is a double salt composed of two distinct salts that crystallize together in a fixed regular ratio but dissociate into independent ions in aqueous solutions."
   },
   {
-    "question_number": 56,
+    "id": "pharm_q56",
     "question": "Which agent is chosen as an osmotic laxative to clear the bowel?",
-    "options": {
-      "A": "Magnesium sulfate",
-      "B": "Magnesium hydroxide",
-      "C": "Sodium potassium tartrate",
-      "D": "Both (A) and (C)"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Magnesium sulfate",
+      "Magnesium hydroxide",
+      "Sodium potassium tartrate",
+      "Both (A) and (C)"
+    ],
+    "correct_answer": "Both (A) and (C)",
     "explanation": "Magnesium sulfate (Epsom salt) and sodium potassium tartrate are poorly absorbed salts that draw water into the intestinal lumen via osmosis, stretching the bowel wall and triggering peristalsis."
   },
   {
-    "question_number": 57,
+    "id": "pharm_q57",
     "question": "The principal medical indication for the use of Sodium thiosulfate is:",
-    "options": {
-      "A": "Antidote in cyanide poisoning",
-      "B": "Treatment of iron toxicity",
-      "C": "Antidote for lead exposure",
-      "D": "Treatment of copper poisoning"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Antidote in cyanide poisoning",
+      "Treatment of iron toxicity",
+      "Antidote for lead exposure",
+      "Treatment of copper poisoning"
+    ],
+    "correct_answer": "Antidote in cyanide poisoning",
     "explanation": "Sodium thiosulfate acts as a sulfur donor for the rhodanese enzyme, accelerating the conversion of toxic cyanide into non-toxic thiocyanate, which is safely excreted in urine."
   },
   {
-    "question_number": 58,
+    "id": "pharm_q58",
     "question": "Barium sulfate ($BaSO_4$) is safe to use as a gastrointestinal radiopaque contrast agent because:",
-    "options": {
-      "A": "It is completely insoluble in water and gastric acids",
-      "B": "It is rapidly metabolized by the liver",
-      "C": "It acts as a weak systemic base",
-      "D": "It possesses zero atomic weight properties"
-    },
-    "correct_answer": "A",
+    "options": [
+      "It is completely insoluble in water and gastric acids",
+      "It is rapidly metabolized by the liver",
+      "It acts as a weak systemic base",
+      "It possesses zero atomic weight properties"
+    ],
+    "correct_answer": "It is completely insoluble in water and gastric acids",
     "explanation": "Although free barium ions ($Ba^{2+}$) are highly toxic, barium sulfate's extremely low solubility product keeps it from being absorbed, allowing it to pass safely through the GI tract during X-ray imaging."
   },
   {
-    "question_number": 59,
+    "id": "pharm_q59",
     "question": "Which iron formulation is widely prescribed to treat microcytic hypochromic anemia?",
-    "options": {
-      "A": "Ferrous sulfate",
-      "B": "Ferrous gluconate",
-      "C": "Ferrous fumarate",
-      "D": "All of the above"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Ferrous sulfate",
+      "Ferrous gluconate",
+      "Ferrous fumarate",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
     "explanation": "Ferrous sulfate, gluconate, and fumarate are highly bioavailable iron salts used orally to replenish depleted iron stores and support hemoglobin synthesis."
   },
   {
-    "question_number": 60,
+    "id": "pharm_q60",
     "question": "Chlorinated lime (Bleaching powder) owes its disinfectant action to the aqueous liberation of:",
-    "options": {
-      "A": "Hypochlorous acid / Chlorine gas",
-      "B": "Oxygen gas",
-      "C": "Calcium oxide fumes",
-      "D": "Hydrogen chloride gas"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Hypochlorous acid / Chlorine gas",
+      "Oxygen gas",
+      "Calcium oxide fumes",
+      "Hydrogen chloride gas"
+    ],
+    "correct_answer": "Hypochlorous acid / Chlorine gas",
     "explanation": "When dissolved in water, chlorinated lime releases hypochlorous acid ($\text{HOCl}$) and active chlorine gas, which quickly penetrate and oxidize bacterial cell walls."
   },
   {
-    "question_number": 61,
+    "id": "pharm_q61",
     "question": "What is the primary role of a buffer system in pharmaceutical formulations?",
-    "options": {
-      "A": "To maintain a constant hydronium ion concentration (pH)",
-      "B": "To prevent oxidation of active ingredients",
-      "C": "To enhance solubility through micelle formation",
-      "D": "To adjust osmotic tone"
-    },
-    "correct_answer": "A",
+    "options": [
+      "To maintain a constant hydronium ion concentration (pH)",
+      "To prevent oxidation of active ingredients",
+      "To enhance solubility through micelle formation",
+      "To adjust osmotic tone"
+    ],
+    "correct_answer": "To maintain a constant hydronium ion concentration (pH)",
     "explanation": "Buffers consist of weak conjugate acid-base pairs designed to resist significant changes in pH when small amounts of acids or bases are introduced, ensuring drug stability and compatibility."
   },
   {
-    "question_number": 62,
+    "id": "pharm_q62",
     "question": "Which compound serves as an effective systemic acidifier?",
-    "options": {
-      "A": "Ammonium chloride",
-      "B": "Sodium bicarbonate",
-      "C": "Sodium citrate",
-      "D": "Potassium acetate"
-    },
-    "correct_answer": "A",
+    "options": [
+      "Ammonium chloride",
+      "Sodium bicarbonate",
+      "Sodium citrate",
+      "Potassium acetate"
+    ],
+    "correct_answer": "Ammonium chloride",
     "explanation": "Ammonium chloride ($\text{NH}_4\text{Cl}$) is metabolized by the liver into urea, releasing free hydrogen ions ($\text{H}^+$) and chloride ions into the bloodstream, which lowers blood and urine pH."
   },
   {
-    "question_number": 63,
+    "id": "pharm_q63",
     "question": "Nitrous oxide ($\text{N}_2\text{O}$) gas is widely classified as a:",
-    "options": {
-      "A": "General anesthetic",
-      "B": "Local anesthetic",
-      "C": "Respiratory stimulant",
-      "D": "Sedative hypnotic"
-    },
-    "correct_answer": "A",
+    "options": [
+      "General anesthetic",
+      "Local anesthetic",
+      "Respiratory stimulant",
+      "Sedative hypnotic"
+    ],
+    "correct_answer": "General anesthetic",
     "explanation": "Nitrous oxide, often called laughing gas, is an inhalational general anesthetic with strong analgesic properties, frequently paired with other potent agents to maintain balanced anesthesia."
   },
   {
-    "question_number": 64,
+    "id": "pharm_q64",
     "question": "Which element acts as a critical cofactor for normal erythrocyte development and hemoglobin synthesis?",
-    "options": {
-      "A": "Iron",
-      "B": "Copper",
-      "C": "Cobalt",
-      "D": "All of the above"
-    },
-    "correct_answer": "D",
+    "options": [
+      "Iron",
+      "Copper",
+      "Cobalt",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
     "explanation": "Iron forms the core of the heme ring, copper assists in iron absorption and mobilization, and cobalt is a central component of Vitamin $\text{B}_{12}$ (cobalamin)—making all three essential for erythropoiesis."
   },
   {
-    "question_number": 65,
+    "id": "pharm_q65",
     "question": "Which standard chemical property characterizes a desiccant agent?",
-    "options": {
-      "A": "High capacity to absorb atmospheric moisture",
-      "B": "Strong reducing potential",
-     
+    "options": [
+      "High capacity to absorb atmospheric moisture",
+      "Strong reducing potential",
+      "Volatility at ambient temperature",
+      "High structural water solubility"
+    ],
+    "correct_answer": "High capacity to absorb atmospheric moisture",
+    "explanation": "Desiccants like silica gel or anhydrous calcium chloride have high hygroscopic affinity, capturing moisture from the surrounding air to maintain dry conditions in packaging."
+  },
+  {
+    "id": "pharm_q66",
+    "question": "Which inorganic compound is used as a fast-acting respiratory stimulant?",
+    "options": [
+      "Ammonium carbonate / Aromatic spirits of ammonia",
+      "Carbon dioxide gas",
+      "Oxygen gas",
+      "Nitrous oxide"
+    ],
+    "correct_answer": "Ammonium carbonate / Aromatic spirits of ammonia",
+    "explanation": "Inhaling ammonia vapor from aromatic spirits or ammonium carbonate irritates the sensory endings of the upper respiratory tract, reflexively stimulating the brain's respiratory center to reverse fainting."
+  },
+  {
+    "id": "pharm_q67",
+    "question": "Lugol's solution is chemically defined as an aqueous solution containing:",
+    "options": [
+      "5% Iodine and 10% Potassium iodide",
+      "2% Iodine and 2% Sodium iodide",
+      "10% Iodine and 5% Potassium iodide",
+      "1% Iodine and 1% Potassium iodide"
+    ],
+    "correct_answer": "5% Iodine and 10% Potassium iodide",
+    "explanation": "Lugol's iodine contains 5% elemental iodine solubilized in water by adding 10% potassium iodide, which forms soluble polyiodide complex chains ($\text{I}_3^-$)."
+  },
+  {
+    "id": "pharm_q68",
+    "question": "Which chemical is the primary active ingredient in standard intraocular pressure-lowering saline infusions?",
+    "options": [
+      "Sodium chloride",
+      "Potassium chloride",
+      "Calcium chloride",
+      "Magnesium chloride"
+    ],
+    "correct_answer": "Sodium chloride",
+    "explanation": "Sodium chloride solutions at specific tonicities serve as the vehicle for balancing extracellular fluids and maintaining osmotic pressure in physiological systems."
+  },
+  {
+    "id": "pharm_q69",
+    "question": "The chemical formula for Calamine powder used in soothing dermatological lotions is:",
+    "options": [
+      "Zinc oxide with a trace concentration of ferric oxide",
+      "Pure zinc carbonate",
+      "Basic zinc silicate",
+      "Zinc sulfate heptahydrate"
+    ],
+    "correct_answer": "Zinc oxide with a trace concentration of ferric oxide",
+    "explanation": "Calamine is a mixture of zinc oxide ($\text{ZnO}$) tinted with approximately 0.5% ferric oxide ($\text{Fe}_2\text{O}_3$), which gives the powder its characteristic pink color and antipruritic qualities."
+  },
+  {
+    "id": "pharm_q70",
+    "question": "Which compound is widely utilized as a radioisotope source in cancer brachytherapy and radiotherapy?",
+    "options": [
+      "Cobalt-60",
+      "Iodine-131",
+      "Technetium-99m",
+      "Phosphorus-32"
+    ],
+    "correct_answer": "Cobalt-60",
+    "explanation": "Cobalt-60 ($\text{}^{60}\text{Co}$) is a radioactive isotope that emits high-energy gamma rays, widely used in external beam radiation therapy to destroy malignant tumor cells."
+  },
+  {
+    "id": "pharm_q71",
+    "question": "According to the Arrhenius definition, an acid is a chemical species that:",
+    "options": [
+      "Dissociates in water to yield hydrogen ions ($H^+$)",
+      "Accepts a lone pair of electrons",
+      "Donates a proton to any non-aqueous solvent",
+      "Produces hydroxyl ions ($OH^-$) in solution"
+    ],
+    "correct_answer": "Dissociates in water to yield hydrogen ions ($H^+$)",
+    "explanation": "The Arrhenius model defines acids as compounds that increase the concentration of hydrogen ions ($\text{H}^+$ or hydronium $\text{H}_3\text{O}^+$) when dissolved in water."
+  },
+  {
+    "id": "pharm_q72",
+    "question": "Which pharmaceutical process yields high-purity water free of volatile and non-volatile contaminants?",
+    "options": [
+      "Distillation",
+      "Ion exchange chromatography",
+      "Reverse osmosis",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Distillation, demineralization via ion exchange, and reverse osmosis are all approved methods for removing ions, microbes, and total dissolved solids to produce Purified Water USP."
+  },
+  {
+    "id": "pharm_q73",
+    "question": "The limit test for iron relies on forming a purple color when iron reacts with:",
+    "options": [
+      "Thioglycollic acid in an ammoniacal medium",
+      "Potassium thiocyanate in acid",
+      "Silver nitrate solution",
+      "Barium chloride compound"
+    ],
+    "correct_answer": "Thioglycollic acid in an ammoniacal medium",
+    "explanation": "The limit test for iron uses thioglycollic acid in a citric acid solution buffered with ammonia to create a stable, soluble ferrous thioglycollate complex that exhibits a distinct purple hue."
+  },
+  {
+    "id": "pharm_q74",
+    "question": "Which toxic element is converted into volatile arsine gas during its official limit test assay?",
+    "options": [
+      "Arsenic",
+      "Lead",
+      "Heavy metals",
+      "Iron"
+    ],
+    "correct_answer": "Arsenic",
+    "explanation": "In the Gutzeit limit test, arsenic impurities are reduced by zinc and hydrochloric acid into volatile arsine gas ($\text{AsH}_3$), which reacts with mercuric chloride paper to form a yellow-to-brown stain."
+  },
+  {
+    "id": "pharm_q75",
+    "question": "Which inorganic compound is used as an antidote to reduce systemic absorption in oral drug overdoses?",
+    "options": [
+      "Activated charcoal",
+      "Light kaolin",
+      "Bentonite",
+      "Magnesium trisilicate"
+    ],
+    "correct_answer": "Activated charcoal",
+    "explanation": "Activated charcoal has an extremely high surface area that physically adsorbs toxins and drug molecules within the gastrointestinal lumen, preventing their absorption into the bloodstream."
+  },
+  {
+    "id": "pharm_q76",
+    "question": "Which element acts as a critical cofactor for normal erythrocyte development and hemoglobin synthesis?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Cobalt",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Iron forms the core of the heme ring, copper assists in iron absorption and mobilization, and cobalt is a central component of Vitamin $\text{B}_{12}$ (cobalamin)—making all three essential for erythropoiesis."
+  },
+  {
+    "id": "pharm_q77",
+    "question": "Boroxide glass containers release less alkali into solutions because they contain:",
+    "options": [
+      "Boric oxide ($B_2O_3$)",
+      "High concentrations of lead oxide",
+      "Pure quartz silica matrix",
+      "Aluminum trioxide coating"
+    ],
+    "correct_answer": "Boric oxide ($B_2O_3$)",
+    "explanation": "Borosilicate glass (Type I glass) incorporates significant amounts of boric oxide alongside silica, lowering its thermal expansion coefficient and drastically reducing the leaching of free alkali into aqueous products."
+  },
+  {
+      "id": "pharm_q78",
+    "question": "Which electrolyte compound is the primary component of standard oral rehydration salts (ORS)?",
+    "options": [
+      "Sodium chloride",
+      "Potassium chloride",
+      "Sodium citrate",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "WHO-formulated ORS contains sodium chloride, potassium chloride, and trisodium citrate (alongside anhydrous glucose) to optimally restore water and essential electrolytes lost during severe diarrhea."
+  },
+  {
+    "id": "pharm_q79",
+    "question": "Sodium fluoride ($\text{NaF}$) is added to dental products because it forms an acid-resistant layer of:",
+    "options": [
+      "Fluorapatite",
+      "Calcium fluoride deposition",
+      "Sodium hydroxyapatite",
+      "Fluoro-silicate complexes"
+    ],
+    "correct_answer": "Fluorapatite",
+    "explanation": "Fluoride ions exchange with the hydroxyl groups in tooth enamel's hydroxyapatite, transforming it into fluorapatite, which is significantly more resistant to demineralization by bacterial acids."
+  },
+  {
+    "id": "pharm_q80",
+    "question": "Which inorganic compound is commonly known as 'Precipitated Chalk'?",
+    "options": [
+      "Calcium carbonate ($\text{CaCO}_3$)",
+      "Calcium hydroxide ($\text{Ca(OH)}_2$)",
+      "Calcium sulfate ($\text{CaSO}_4$)",
+      "Calcium chloride ($\text{CaCl}_2$)"
+    ],
+    "correct_answer": "Calcium carbonate ($\text{CaCO}_3$)",
+    "explanation": "Precipitated chalk is the pharmaceutical term for purified calcium carbonate ($\text{CaCO}_3$), an insoluble white powder used as a calcium supplement, gastric antacid, or abrasive agent in toothpastes."
+  }
+]
