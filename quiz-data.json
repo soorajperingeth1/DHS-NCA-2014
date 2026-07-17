@@ -1,306 +1,5 @@
 [
   {
-    "question_number": 1,
-    "question": "Which one of the following drugs has little effect on beta adrenoreceptors?",
-    "options": {
-      "A": "Epinephrine",
-      "B": "Fenoterol",
-      "C": "Isoproterenol",
-      "D": "Dopamine"
-    },
-    "answer": "D",
-    "explanation": "Dopamine works primarily via specific dopaminergic receptors ($D_1$ and $D_2$) and alpha-1 receptors at high therapeutic doses, showcasing negligible or minor direct action on broad systemic beta-adrenergic receptors when contrasted with strong beta-agonists like Isoproterenol or Epinephrine."
-  },
-  {
-    "question_number": 2,
-    "question": "Which one of the following drug is not useful in treating cardiac arrhythmia?",
-    "options": {
-      "A": "Quinidine",
-      "B": "Propranolol",
-      "C": "Digoxin",
-      "D": "Timolol"
-    },
-    "answer": "D",
-    "explanation": "Timolol is an ocularly targeted, non-selective beta-blocker engineered almost exclusively as topical ophthalmic drop formulations to reduce elevated intraocular pressure in glaucoma management rather than as a systemic therapy for cardiac dysrhythmia."
-  },
-  {
-    "question_number": 3,
-    "question": "Which drug is used in treating acute gout?",
-    "options": {
-      "A": "Reserpine",
-      "B": "Ergotamine",
-      "C": "Colchicine",
-      "D": "Cocaine"
-    },
-    "answer": "C",
-    "explanation": "Colchicine exerts anti-inflammatory actions by binding directly to tubulin dimers. This halts microtubule assembly, which actively disrupts white blood cell chemotaxis and phagocytosis of urate crystal zones within affected synovial fluids."
-  },
-  {
-    "question_number": 4,
-    "question": "What are the drugs used in myocardial infarctions?",
-    "options": {
-      "A": "Propranolol",
-      "B": "Aspirin",
-      "C": "Budesonide",
-      "D": "Both (A) and (B)"
-    },
-    "answer": "D",
-    "explanation": "During an acute myocardial infarction, antiplatelet therapies like Aspirin are deployed immediately to inhibit further coronary thrombus growth, while beta-adrenergic antagonists like Propranolol reduce the myocardial workload and cellular oxygen consumption requirements."
-  },
-  {
-    "question_number": 5,
-    "question": "Which is the most appropriate drug to rapidly reverse bronchoconstriction?",
-    "options": {
-      "A": "Cromolyn inhalation",
-      "B": "Propranolol oral",
-      "C": "Albuterol inhalation",
-      "D": "Methyl prednisolone I.V."
-    },
-    "answer": "C",
-    "explanation": "Albuterol (Salbutamol) is a high-affinity short-acting beta-2 agonist administered directly via inhalation. It yields immediate bronchodilation by relaxing smooth muscles within hyperreactive lung airways."
-  },
-  {
-    "question_number": 6,
-    "question": "Which is the Drug of choice in acute anginal pain?",
-    "options": {
-      "A": "Sublingual Nitroglycerine",
-      "B": "Isosorbide dinitrate oral",
-      "C": "Diltiazem oral",
-      "D": "Orciprenaline inhalation"
-    },
-    "answer": "A",
-    "explanation": "Sublingual Nitroglycerine dissolves rapidly under the tongue to bypass first-pass hepatic degradation, delivering instant nitric oxide liberation that dilates large systemic veins and unloads ischemia-related cardiac pressure lines."
-  },
-  {
-    "question_number": 7,
-    "question": "Which of the following one is not a use of Aspirin?",
-    "options": {
-      "A": "Analgesic",
-      "B": "Antipyretic",
-      "C": "Thrombolytic",
-      "D": "Antitussive"
-    },
-    "answer": "D",
-    "explanation": "Aspirin blocks cyclooxygenase (COX) synthesis to mitigate pain, lower fevers, and act as an antiplatelet countermeasure. However, it displays zero neurological antitussive activity to reduce cough reflexes."
-  },
-  {
-    "question_number": 8,
-    "question": "Which one of the following drugs is an antifungal agent?",
-    "options": {
-      "A": "Clofazimine",
-      "B": "Cotrimazole",
-      "C": "Cotrimazine",
-      "D": "Clotrimazole"
-    },
-    "answer": "D",
-    "explanation": "Clotrimazole belongs to the synthetic imidazole pharmacological family and stops fungal progression by blocking the 14-alpha demethylase enzyme required to produce ergosterol for healthy fungal cell walls."
-  },
-  {
-    "question_number": 9,
-    "question": "Which one of the following drugs is used in leprosy?",
-    "options": {
-      "A": "Dapsone",
-      "B": "Isoniazid",
-      "C": "Ethambutol",
-      "D": "Pyrazinamide"
-    },
-    "answer": "A",
-    "explanation": "Dapsone (diaminodiphenyl sulfone) acts as a structural antimetabolite that blocks bacterial dihydropteroate synthase. It is used as a core component of the multidrug therapy (MDT) protocols targeting Mycobacterium leprae."
-  },
-  {
-    "question_number": 10,
-    "question": "Which antibacterial agent act by preventing the synthesis of bacterial folic acid?",
-    "options": {
-      "A": "Ampicillin",
-      "B": "Sulphamethoxazole",
-      "C": "Cephalexin",
-      "D": "Vancomycin"
-    },
-    "answer": "B",
-    "explanation": "Sulphamethoxazole is a sulfonamide antibiotic that works as a competitive inhibitor of dihydropteroate synthase, halting the downstream bacterial generation of essential dihydrofolic acid structures."
-  },
-  {
-    "question_number": 11,
-    "question": "What is the use of metronidazole?",
-    "options": {
-      "A": "Mental depression",
-      "B": "Filariasis",
-      "C": "Amoebic dysentery",
-      "D": "Diarrhoea"
-    },
-    "answer": "C",
-    "explanation": "Metronidazole targets anaerobic microorganisms and protozoans by disrupting their helical DNA structures, serving as an effective treatment for Entamoeba histolytica infections."
-  },
-  {
-    "question_number": 12,
-    "question": "Which is the drug of choice for treating filariasis?",
-    "options": {
-      "A": "Mebendazole",
-      "B": "Praziquantel",
-      "C": "Diethyl carbamazine",
-      "D": "Piperazine"
-    },
-    "answer": "C",
-    "explanation": "Diethylcarbamazine (DEC) alters microfilarial membranes and triggers structural changes that make them vulnerable to phagocytosis by the host's immune system."
-  },
-  {
-    "question_number": 13,
-    "question": "Which drug is used in treating malaria?",
-    "options": {
-      "A": "Mebendazole",
-      "B": "Filariasis",
-      "C": "Malaria",
-      "D": "Hookworm infections"
-    },
-    "answer": "C",
-    "explanation": "Antimalarial drugs like Chloroquine and Artemisinin derivatives target Plasmodium life cycles inside host erythrocytes to treat malaria."
-  },
-  {
-    "question_number": 14,
-    "question": "Which drug is used for typhoid fever?",
-    "options": {
-      "A": "Ciprofloxacin",
-      "B": "Chloramphenicol",
-      "C": "Cotrimoxazole",
-      "D": "All of the above"
-    },
-    "answer": "D",
-    "explanation": "Fluoroquinolones like Ciprofloxacin, historical choices like Chloramphenicol, and folate inhibitors like Cotrimoxazole all have documented activity against Salmonella typhi infections."
-  },
-  {
-    "question_number": 15,
-    "question": "Cotrimoxazole is a combination drug of:",
-    "options": {
-      "A": "Trimethoprim and Sulphamethoxazole",
-      "B": "Trimethoprim and Sulphadiazine",
-      "C": "Trimethoprim and Sulphamoxole",
-      "D": "All of the above"
-    },
-    "answer": "A",
-    "explanation": "Cotrimoxazole contains a fixed 1:5 ratio of Trimethoprim and Sulphamethoxazole, producing sequential blocks along the bacterial purine synthesis pathway."
-  },
-  {
-    "question_number": 16,
-    "question": "Iodine is a constituent of which hormone?",
-    "options": {
-      "A": "Thyroid hormone",
-      "B": "Insulin",
-      "C": "Oxytocin",
-      "D": "Corticosteroids"
-    },
-    "answer": "A",
-    "explanation": "Thyroid follicular cells collect iodide to iodinate tyrosine residues on thyroglobulin, generating the active metabolic hormones Thyroxine ($T_4$) and Triiodothyronine ($T_3$)."
-  },
-  {
-    "question_number": 17,
-    "question": "What is the use of Clavulanic acid in Amoxicillin-Clavulanic acid combination drug?",
-    "options": {
-      "A": "Betalactamase inhibitor",
-      "B": "Antibacterial agent",
-      "C": "Cell wall synthesis inhibitor",
-      "D": "Protein synthesis inhibitor"
-    },
-    "answer": "A",
-    "explanation": "Clavulanic acid is a suicide beta-lactamase inhibitor that binds irreversibly to bacterial enzymes, shielding Amoxicillin from enzymatic degradation."
-  },
-  {
-    "question_number": 18,
-    "question": "Which Vitamin involved in the biosynthesis of blood clotting factors?",
-    "options": {
-      "A": "Vitamin A",
-      "B": "Vitamin B12",
-      "C": "Vitamin K",
-      "D": "Vitamin E"
-    },
-    "answer": "C",
-    "explanation": "Vitamin K serves as an obligatory cofactor for the gamma-glutamyl carboxylase enzyme, which activates blood coagulation factors II, VII, IX, and X."
-  },
-  {
-    "question_number": 19,
-    "question": "Which of the following is an unorganised drug containing Anthraquinone glycoside?",
-    "options": {
-      "A": "Aloe",
-      "B": "Senna",
-      "C": "Cascara",
-      "D": "Asafoetida"
-    },
-    "answer": "A",
-    "explanation": "Aloe is an unorganized crude drug consisting of the dried juice collected from its leaves, rich in anthraquinone derivatives like aloin."
-  },
-  {
-    "question_number": 20,
-    "question": "Which crude drug used as dental analgesic?",
-    "options": {
-      "A": "Clove",
-      "B": "Colchicum",
-      "C": "Opium",
-      "D": "Brahmi"
-    },
-    "answer": "A",
-    "explanation": "Clove oil owes its dental analgesic properties to its high content of eugenol, which exhibits local anesthetic and anti-inflammatory qualities."
-  },
-  {
-    "question_number": 21,
-    "question": "Among the following alkaloids which one is identified by Vitali-Morin reaction?",
-    "options": {
-      "A": "Atropine",
-      "B": "Caffeine",
-      "C": "Psychotrine",
-      "D": "Brucine"
-    },
-    "answer": "A",
-    "explanation": "The Vitali-Morin colorimetric reaction identifies tropane alkaloids like Atropine and Scopolamine by producing a deep violet hue upon treatment with fuming nitric acid and alcoholic potassium hydroxide."
-  },
-  {
-    "question_number": 22,
-    "question": "Which crude drug contain Sympathomimetic alkaloid?",
-    "options": {
-      "A": "Nuxvomica",
-      "B": "Ergot",
-      "C": "Belladona",
-      "D": "Ephedra"
-    },
-    "answer": "D",
-    "explanation": "Ephedra contains the amine alkaloids ephedrine and pseudoephedrine, which act directly and indirectly as alpha and beta-adrenergic agonists."
-  },
-  {
-    "question_number": 23,
-    "question": "Which crude drug gives Emerald green colour in Thalleoquin test?",
-    "options": {
-      "A": "Cassia bark",
-      "B": "Cinnamon bark",
-      "C": "Cinchona bark",
-      "D": "Quillaia bark"
-    },
-    "answer": "C",
-    "explanation": "Cinchona bark yields quinoline alkaloids like quinine and quinidine, which form a distinctive emerald-green product when treated sequentially with bromine water and ammonia."
-  },
-  {
-    "question_number": 24,
-    "question": "Which drug contain Reserpine?",
-    "options": {
-      "A": "Rauwolfia bark",
-      "B": "Pyrethrum",
-      "C": "Neem",
-      "D": "Asoka"
-    },
-    "answer": "A",
-    "explanation": "Rauwolfia serpentina (snakeroot) roots and rhizomes house the indole alkaloid Reserpine, which depletes vesicular monoamine neurotransmitters."
-  },
-  {
-    "question_number": 25,
-    "question": "Which one of the following crude drug contains cardiac glycoside?",
-    "options": {
-      "A": "Aloe",
-      "B": "Senna",
-      "C": "Digitalis",
-      "D": "Cascara"
-    },
-    "answer": "C",
-    "explanation": "Digitalis purpurea leaves contain cardenolides like digitoxin and digoxin, which inhibit cellular $Na^+/K^+$-ATPase pumps to treat heart failure."
-  }
-
-  {
     "question_number": 26,
     "question": "Which of the following is a volatile oil containing crude drug?",
     "options": {
@@ -309,7 +8,7 @@
       "C": "Fennel",
       "D": "All of the above"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Clove (eugenol), Coriander (linalool), and Fennel (anethole and fenchone) are all aromatic crude drugs whose primary active components are volatile essential oils obtained via distillation."
   },
   {
@@ -321,7 +20,7 @@
       "C": "S-glycosides",
       "D": "N-glycosides"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "While the standard Borntrager's test detects free anthraquinones in O-glycosides, the modified version uses ferric chloride to oxidize and break the stronger carbon-carbon bond found in C-glycosides (like those in Aloes)."
   },
   {
@@ -333,7 +32,7 @@
       "C": "Agar",
       "D": "Gelatin"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Organized drugs consist of direct cellular plant structural tissue (like barks, leaves, and roots), whereas unorganized drugs are cellular-free products like juices, extracts, or exudates."
   },
   {
@@ -345,7 +44,7 @@
       "C": "Volatile oils",
       "D": "Tannins"
     },
-    "answer": "B",
+    "correct_answer": "B",
     "explanation": "The Stas-Otto method is a classical chemical separation procedure utilizing selective solvent extractions at varying pH points to isolate organic alkaloidal bases from biological matter."
   },
   {
@@ -357,7 +56,7 @@
       "C": "Cinnamon",
       "D": "All of the above"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Cardamom, Ginger, and Cinnamon contain volatile aromatic terpenes that stimulate gastric mucosa, relax the cardiac sphincter, and promote the expulsion of gas from the GI tract."
   },
   {
@@ -369,7 +68,7 @@
       "C": "Quinine",
       "D": "Morphine"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Ephedrine is a protoalkaloid or alkaloidal amine because its nitrogen atom resides outside the characteristic cyclic ring system, derived biosynthetically from phenylalanine."
   },
   {
@@ -381,7 +80,7 @@
       "C": "Dry heating",
       "D": "Fermentation"
     },
-    "answer": "B",
+    "correct_answer": "B",
     "explanation": "Sodhana is a traditional Ayurvedic purification process used for toxic drugs like Nux-vomica (containing strychnine) to minimize toxic alkaloids while retaining therapeutic values."
   },
   {
@@ -393,7 +92,7 @@
       "C": "Alkaloids",
       "D": "Resins"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Goldbeater's skin test relies on the ability of true tannins to bind firmly to collagen proteins in animal membranes, which are subsequently stained with ferric sulfate to yield a blackish-blue color."
   },
   {
@@ -405,7 +104,7 @@
       "C": "Benzoin",
       "D": "Both (A) and (B)"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Asafoetida and Myrrh naturally consist of a homogenous mixture of volatile oils (oleo), water-soluble gums, and alcohol-soluble resinous complexes."
   },
   {
@@ -417,7 +116,7 @@
       "C": "Legal's test",
       "D": "Both (A) and (B)"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Saponins lower surface tension to generate persistent mechanical foam when shaken in water (Froth test) and interact with cholesterol in erythrocyte membranes to rupture them (Hemolysis test)."
   },
   {
@@ -429,7 +128,7 @@
       "C": "Beta-1,4-glycosidic linkage",
       "D": "Alpha-1,6-glycosidic linkage"
     },
-    "answer": "B",
+    "correct_answer": "B",
     "explanation": "Sucrose is a non-reducing disaccharide composed of alpha-D-glucose and beta-D-fructose linked together through their respective anomeric carbons ($C_1$ and $C_2$)."
   },
   {
@@ -441,7 +140,7 @@
       "C": "Ruthenium red",
       "D": "Safranin"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Phloroglucinol dissolved in hydrochloric acid reacts selectively with the coniferaldehyde groups embedded within plant lignin to form a distinctive red-pink color."
   },
   {
@@ -453,7 +152,7 @@
       "C": "Paracytic",
       "D": "Diacytic"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Digitalis leaves possess anomocytic (irregular-celled) stomata, where the guard cells are surrounded by a variable number of cells indistinguishable from the other epidermal cells."
   },
   {
@@ -465,7 +164,7 @@
       "C": "Antihypertensive",
       "D": "Both (A) and (B)"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Ergot alkaloids serve dual medical roles: Ergotamine manages acute migraines via vasoconstriction, while Ergometrine (Ergonovine) induces uterine contractions to treat postpartum hemorrhage."
   },
   {
@@ -477,7 +176,7 @@
       "C": "Diastase",
       "D": "Both (A) and (B)"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Papaya leaves/fruits yield the enzyme papain, and pineapple stems yield bromelain; both are well-known industrial and medical proteolytic (protein-cleaving) enzymes."
   },
   {
@@ -489,7 +188,7 @@
       "C": "Cineole",
       "D": "Carvone"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Clove oil obtained from Syzygium aromaticum yields between 70% to 90% eugenol, a volatile phenolic compound responsible for its antiseptic and dental anesthetic effects."
   },
   {
@@ -501,7 +200,7 @@
       "C": "Isoquinoline alkaloids",
       "D": "Indole alkaloids"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Atropa belladonna synthesizes tropane alkaloids, primarily atropine and hyoscyamine, which block muscarinic acetylcholine receptors competitively."
   },
   {
@@ -513,7 +212,7 @@
       "C": "Palisade ratio",
       "D": "All of the above"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Stomatal index, vein-islet count, and palisade ratio are constant quantitative histological values used to identify specific species and detect adulteration in leaf drugs."
   },
   {
@@ -525,7 +224,7 @@
       "C": "Spoliation due to microbial growth",
       "D": "Both (A) and (B)"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Adulteration involves intentionally or accidentally substituting authentic crude material with inferior species or adding cheaper, inert substances that degrade product quality."
   },
   {
@@ -537,7 +236,7 @@
       "C": "Inhibiting topoisomerase II enzymes",
       "D": "Antagonizing folic acid pathways"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Vinca alkaloids bind specifically to tubulin molecules, preventing their assembly into mitotic spindles, which arrests cancer cells in the metaphase stage."
   },
   {
@@ -549,7 +248,7 @@
       "C": "Oleo-gum-resins",
       "D": "Volatile oils"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Lycopodium spores have highly uniform dimensions ($94,000$ spores per milligram), serving as an internal standard to count starch grains, pollen, or fragments in powdered crude drugs."
   },
   {
@@ -561,7 +260,7 @@
       "C": "15",
       "D": "20"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Steroidal saponins possess a cyclopentanoperhydrophenanthrene skeleton built from 27 carbon atoms, distinguishing them from triterpenoid saponins which have 30 carbons."
   },
   {
@@ -573,7 +272,7 @@
       "C": "Baljet's test",
       "D": "Legal's test"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "The Keller-Kiliani test identifies deoxysugars (like digitoxose in Digitalis cardenolides) by forming a reddish-brown color at the interface that turns bluish-green."
   },
   {
@@ -585,7 +284,7 @@
       "C": "Nicotine",
       "D": "Reserpine"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Physostigmine is a reversible acetylcholinesterase inhibitor that crosses the blood-brain barrier, raising synaptic acetylcholine levels to reverse both central and peripheral muscarinic blockade caused by atropine."
   },
   {
@@ -597,7 +296,7 @@
       "C": "Alizarin",
       "D": "Purpurin"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Pale catechu (Uncaria gambier) contains gambier-fluorescein, which gives a bright green fluorescent pattern when an petroleum ether extract is treated with sodium hydroxide."
   },
   {
@@ -609,7 +308,7 @@
       "C": "Competitive antagonism of $H_2$ receptors",
       "D": "Adsorption of hydrogen ions"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Sodium bicarbonate is a soluble antacid that reacts rapidly and directly with hydrochloric acid in the stomach lumen to produce carbon dioxide, water, and sodium chloride."
   },
   {
@@ -621,7 +320,7 @@
       "C": "Zinc sulfate",
       "D": "All of the above"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Zinc-based preparations act as topical astringents by precipitating surface proteins, forming a protective barrier that reduces inflammation and assists wound healing."
   },
   {
@@ -633,7 +332,7 @@
       "C": "Dehydration of protoplasm",
       "D": "Halogenation of cellular structures"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Hydrogen peroxide is an oxidative disinfectant that produces reactive oxygen species and hydroxyl radicals, disrupting essential microbial membrane lipids and DNA."
   },
   {
@@ -645,7 +344,7 @@
       "C": "Potassium iodide",
       "D": "All of the above"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Salt iodization introduces trace amounts of iodine salts (like potassium iodate/iodide) to safeguard public health against iodine deficiency disorders, such as endemic goiter."
   },
   {
@@ -657,7 +356,7 @@
       "C": "Acidic salt",
       "D": "Basic salt"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Alum ($\text{KAl(SO}_4)_2 \cdot 12\text{H}_2\text{O}$) is a double salt composed of two distinct salts that crystallize together in a fixed regular ratio but dissociate into independent ions in aqueous solutions."
   },
   {
@@ -669,7 +368,7 @@
       "C": "Sodium potassium tartrate",
       "D": "Both (A) and (C)"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Magnesium sulfate (Epsom salt) and sodium potassium tartrate are poorly absorbed salts that draw water into the intestinal lumen via osmosis, stretching the bowel wall and triggering peristalsis."
   },
   {
@@ -681,7 +380,7 @@
       "C": "Antidote for lead exposure",
       "D": "Treatment of copper poisoning"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Sodium thiosulfate acts as a sulfur donor for the rhodanese enzyme, accelerating the conversion of toxic cyanide into non-toxic thiocyanate, which is safely excreted in urine."
   },
   {
@@ -693,7 +392,7 @@
       "C": "It acts as a weak systemic base",
       "D": "It possesses zero atomic weight properties"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Although free barium ions ($Ba^{2+}$) are highly toxic, barium sulfate's extremely low solubility product keeps it from being absorbed, allowing it to pass safely through the GI tract during X-ray imaging."
   },
   {
@@ -705,7 +404,7 @@
       "C": "Ferrous fumarate",
       "D": "All of the above"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Ferrous sulfate, gluconate, and fumarate are highly bioavailable iron salts used orally to replenish depleted iron stores and support hemoglobin synthesis."
   },
   {
@@ -717,7 +416,7 @@
       "C": "Calcium oxide fumes",
       "D": "Hydrogen chloride gas"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "When dissolved in water, chlorinated lime releases hypochlorous acid ($\text{HOCl}$) and active chlorine gas, which quickly penetrate and oxidize bacterial cell walls."
   },
   {
@@ -729,7 +428,7 @@
       "C": "To enhance solubility through micelle formation",
       "D": "To adjust osmotic tone"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Buffers consist of weak conjugate acid-base pairs designed to resist significant changes in pH when small amounts of acids or bases are introduced, ensuring drug stability and compatibility."
   },
   {
@@ -741,7 +440,7 @@
       "C": "Sodium citrate",
       "D": "Potassium acetate"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Ammonium chloride ($\text{NH}_4\text{Cl}$) is metabolized by the liver into urea, releasing free hydrogen ions ($\text{H}^+$) and chloride ions into the bloodstream, which lowers blood and urine pH."
   },
   {
@@ -753,7 +452,7 @@
       "C": "Respiratory stimulant",
       "D": "Sedative hypnotic"
     },
-    "answer": "A",
+    "correct_answer": "A",
     "explanation": "Nitrous oxide, often called laughing gas, is an inhalational general anesthetic with strong analgesic properties, frequently paired with other potent agents to maintain balanced anesthesia."
   },
   {
@@ -765,7 +464,7 @@
       "C": "Cobalt",
       "D": "All of the above"
     },
-    "answer": "D",
+    "correct_answer": "D",
     "explanation": "Iron forms the core of the heme ring, copper assists in iron absorption and mobilization, and cobalt is a central component of Vitamin $\text{B}_{12}$ (cobalamin)—making all three essential for erythropoiesis."
   },
   {
@@ -774,190 +473,4 @@
     "options": {
       "A": "High capacity to absorb atmospheric moisture",
       "B": "Strong reducing potential",
-      "C": "Volatility at ambient temperature",
-      "D": "High structural water solubility"
-    },
-    "answer": "A",
-    "explanation": "Desiccants like silica gel or anhydrous calcium chloride have high hygroscopic affinity, capturing moisture from the surrounding air to maintain dry conditions in packaging."
-  },
-  {
-    "question_number": 66,
-    "question": "Which inorganic compound is used as a fast-acting respiratory stimulant?",
-    "options": {
-      "A": "Ammonium carbonate / Aromatic spirits of ammonia",
-      "B": "Carbon dioxide gas",
-      "C": "Oxygen gas",
-      "D": "Nitrous oxide"
-    },
-    "answer": "A",
-    "explanation": "Inhaling ammonia vapor from aromatic spirits or ammonium carbonate irritates the sensory endings of the upper respiratory tract, reflexively stimulating the brain's respiratory center to reverse fainting."
-  },
-  {
-    "question_number": 67,
-    "question": "Lugol's solution is chemically defined as an aqueous solution containing:",
-    "options": {
-      "A": "5% Iodine and 10% Potassium iodide",
-      "B": "2% Iodine and 2% Sodium iodide",
-      "C": "10% Iodine and 5% Potassium iodide",
-      "D": "1% Iodine and 1% Potassium iodide"
-    },
-    "answer": "A",
-    "explanation": "Lugol's iodine contains 5% elemental iodine solubilized in water by adding 10% potassium iodide, which forms soluble polyiodide complex chains ($\text{I}_3^-$)."
-  },
-  {
-    "question_number": 68,
-    "question": "Which chemical is the primary active ingredient in standard intraocular pressure-lowering saline infusions?",
-    "options": {
-      "A": "Sodium chloride",
-      "B": "Potassium chloride",
-      "C": "Calcium chloride",
-      "D": "Magnesium chloride"
-    },
-    "answer": "A",
-    "explanation": "Sodium chloride solutions at specific tonicities serve as the vehicle for balancing extracellular fluids and maintaining osmotic pressure in physiological systems."
-  },
-  {
-    "question_number": 69,
-    "question": "The chemical formula for Calamine powder used in soothing dermatological lotions is:",
-    "options": {
-      "A": "Zinc oxide with a trace concentration of ferric oxide",
-      "B": "Pure zinc carbonate",
-      "C": "Basic zinc silicate",
-      "D": "Zinc sulfate heptahydrate"
-    },
-    "answer": "A",
-    "explanation": "Calamine is a mixture of zinc oxide ($\text{ZnO}$) tinted with approximately 0.5% ferric oxide ($\text{Fe}_2\text{O}_3$), which gives the powder its characteristic pink color and antipruritic qualities."
-  },
-  {
-    "question_number": 70,
-    "question": "Which compound is widely utilized as a radioisotope source in cancer brachytherapy and radiotherapy?",
-    "options": {
-      "A": "Cobalt-60",
-      "B": "Iodine-131",
-      "C": "Technetium-99m",
-      "D": "Phosphorus-32"
-    },
-    "answer": "A",
-    "explanation": "Cobalt-60 ($\text{}^{60}\text{Co}$) is a radioactive isotope that emits high-energy gamma rays, widely used in external beam radiation therapy to destroy malignant tumor cells."
-  },
-  {
-    "question_number": 71,
-    "question": "According to the Arrhenius definition, an acid is a chemical species that:",
-    "options": {
-      "A": "Dissociates in water to yield hydrogen ions ($H^+$)",
-      "B": "Accepts a lone pair of electrons",
-      "C": "Donates a proton to any non-aqueous solvent",
-      "D": "Produces hydroxyl ions ($OH^-$) in solution"
-    },
-    "answer": "A",
-    "explanation": "The Arrhenius model defines acids as compounds that increase the concentration of hydrogen ions ($\text{H}^+$ or hydronium $\text{H}_3\text{O}^+$) when dissolved in water."
-  },
-  {
-    "question_number": 72,
-    "question": "Which pharmaceutical process yields high-purity water free of volatile and non-volatile contaminants?",
-    "options": {
-      "A": "Distillation",
-      "B": "Ion exchange chromatography",
-      "C": "Reverse osmosis",
-      "D": "All of the above"
-    },
-    "answer": "D",
-    "explanation": "Distillation, demineralization via ion exchange, and reverse osmosis are all approved methods for removing ions, microbes, and total dissolved solids to produce Purified Water USP."
-  },
-  {
-    "question_number": 73,
-    "question": "The limit test for iron relies on forming a purple color when iron reacts with:",
-    "options": {
-      "A": "Thioglycollic acid in an ammoniacal medium",
-      "B": "Potassium thiocyanate in acid",
-      "C": "Silver nitrate solution",
-      "D": "Barium chloride compound"
-    },
-    "answer": "A",
-    "explanation": "The limit test for iron uses thioglycollic acid in a citric acid solution buffered with ammonia to create a stable, soluble ferrous thioglycollate complex that exhibits a distinct purple hue."
-  },
-  {
-    "question_number": 74,
-    "question": "Which toxic element is converted into volatile arsine gas during its official limit test assay?",
-    "options": {
-      "A": "Arsenic",
-      "B": "Lead",
-      "C": "Heavy metals",
-      "D": "Iron"
-    },
-    "answer": "A",
-    "explanation": "In the Gutzeit limit test, arsenic impurities are reduced by zinc and hydrochloric acid into volatile arsine gas ($\text{AsH}_3$), which reacts with mercuric chloride paper to form a yellow-to-brown stain."
-  },
-  {
-    "question_number": 75,
-    "question": "Which inorganic compound is used as an antidote to reduce systemic absorption in oral drug overdoses?",
-    "options": {
-      "A": "Activated charcoal",
-      "B": "Light kaolin",
-      "C": "Bentonite",
-      "D": "Magnesium trisilicate"
-    },
-    "answer": "A",
-    "explanation": "Activated charcoal has an extremely high surface area that physically adsorbs toxins and drug molecules within the gastrointestinal lumen, preventing their absorption into the bloodstream."
-  },
-  {
-    "question_number": 76,
-    "question": "Which element acts as a critical cofactor for normal erythrocyte development and hemoglobin synthesis?",
-    "options": {
-      "A": "Iron",
-      "B": "Copper",
-      "C": "Cobalt",
-      "D": "All of the above"
-    },
-    "answer": "D",
-    "explanation": "Iron forms the core of the heme ring, copper assists in iron absorption and mobilization, and cobalt is a central component of Vitamin $\text{B}_{12}$ (cobalamin)—making all three essential for erythropoiesis."
-  },
-  {
-    "question_number": 77,
-    "question": "Boroxide glass containers release less alkali into solutions because they contain:",
-    "options": {
-      "A": "Boric oxide ($B_2O_3$)",
-      "B": "High concentrations of lead oxide",
-      "C": "Pure quartz silica matrix",
-      "D": "Aluminum trioxide coating"
-    },
-    "answer": "A",
-    "explanation": "Borosilicate glass (Type I glass) incorporates significant amounts of boric oxide alongside silica, lowering its thermal expansion coefficient and drastically reducing the leaching of free alkali into aqueous products."
-  },
-  {
-    "question_number": 78,
-    "question": "Which electrolyte compound is the primary component of standard oral rehydration salts (ORS)?",
-    "options": {
-      "A": "Sodium chloride",
-      "B": "Potassium chloride",
-      "C": "Sodium citrate",
-      "D": "All of the above"
-    },
-    "answer": "D",
-    "explanation": "WHO-formulated ORS contains sodium chloride, potassium chloride, and trisodium citrate (alongside anhydrous glucose) to optimally restore water and essential electrolytes lost during severe diarrhea."
-  },
-  {
-    "question_number": 79,
-    "question": "Sodium fluoride ($\text{NaF}$) is added to dental products because it forms a acid-resistant layer of:",
-    "options": {
-      "A": "Fluorapatite",
-      "B": "Calcium fluoride deposition",
-      "C": "Sodium hydroxyapatite",
-      "D": "Fluoro-silicate complexes"
-    },
-    "answer": "A",
-    "explanation": "Fluoride ions exchange with the hydroxyl groups in tooth enamel's hydroxyapatite, transforming it into fluorapatite, which is significantly more resistant to demineralization by bacterial acids."
-  },
-  {
-    "question_number": 80,
-    "question": "Which inorganic compound is commonly known as 'Precipitated Chalk'?",
-    "options": {
-      "A": "Calcium carbonate ($\text{CaCO}_3$)",
-      "B": "Calcium hydroxide ($\text{Ca(OH)}_2$)",
-      "C": "Calcium sulfate ($\text{CaSO}_4$)",
-      "D": "Calcium chloride ($\text{CaCl}_2$)"
-    },
-    "answer": "A",
-    "explanation": "Precipitated chalk is the pharmaceutical term for purified calcium carbonate ($\text{CaCO}_3$), an insoluble white powder used as a calcium supplement, gastric antacid, or abrasive agent in toothpastes."
-  }
-]
+     
